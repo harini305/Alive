@@ -10,3 +10,6 @@ scripts/
 node_modules/
 .next/
 out/
+# local secrets (Vercel CLI token)
+.env*
+.vercel/
