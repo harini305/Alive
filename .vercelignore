@@ -1,0 +1,12 @@
+# Not needed to build or serve the site; keeps the Vercel upload small.
+# Originals (331 MB) — web-sized copies already live in public/
+source-assets/
+# Audit captures (only used by `npm run content`; output is committed in src/content/generated)
+docs/
+# Local QA screenshots and reports
+.qa/
+# Asset-prep and QA scripts (need sharp/playwright, never run on Vercel)
+scripts/
+node_modules/
+.next/
+out/

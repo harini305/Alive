@@ -1,0 +1,33 @@
+{
+ "key": "booking-calendar__speak-with-your-client-manager",
+ "route": "/booking-calendar/speak-with-your-client-manager",
+ "status": "200",
+ "title": "Speak With Your Client Manager - Alive Luxury Wellness Retreats",
+ "description": "None",
+ "h1": [
+  "Schedule your service"
+ ],
+ "iframes": [],
+ "sections": [
+  {
+   "id": "comp-lk6o0eoc1",
+   "blocks": [
+    {
+     "t": "h",
+     "level": 1,
+     "text": "Schedule your service"
+    },
+    {
+     "t": "p",
+     "text": "Book A Call At A Time That Suits"
+    },
+    {
+     "t": "p",
+     "text": "Check out our availability and book the date and time that works for you"
+    }
+   ]
+  }
+ ],
+ "extraImages": [],
+ "jsonld": null
+}

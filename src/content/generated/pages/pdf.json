@@ -1,0 +1,111 @@
+{
+ "key": "pdf",
+ "route": "/pdf",
+ "status": "200",
+ "title": "Packages PDF Access | Alive Luxury Wellness Retreats",
+ "description": "alive wellness retreats pdf packages",
+ "h1": [
+  "DOWNLOAD OUR VIP PRIVATE RETREAT PACKAGE",
+  "We get it... Finding a retreat that is right for you can be overwhelming. Get a custom retreat package that is built just for you! Or call us below..."
+ ],
+ "iframes": [],
+ "sections": [
+  {
+   "id": "comp-mnd9csn9",
+   "blocks": [
+    {
+     "t": "h",
+     "level": 1,
+     "text": "DOWNLOAD OUR VIP PRIVATE RETREAT PACKAGE"
+    },
+    {
+     "t": "h",
+     "level": 2,
+     "text": "Welcome to Alive"
+    },
+    {
+     "t": "img",
+     "file": "45f076_ae3cb44e5ccf4bcbbd509b46976abbc6~mv2.webp",
+     "alt": "vip mock up small"
+    }
+   ]
+  },
+  {
+   "id": "comp-mnwkot6x",
+   "blocks": [
+    {
+     "t": "img",
+     "file": "45f076_dc6642574b3b46b691ab9dc93b7455d5~mv2.png",
+     "alt": "skye headshot"
+    },
+    {
+     "t": "p",
+     "text": "Connect with an Alive Wellness Advisor and your booking concierge by phone or whatsapp.",
+     "links": [
+      {
+       "text": "by phone",
+       "href": "tel:+14785516454",
+       "newTab": false
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "They will help you get booked in today."
+    },
+    {
+     "t": "p",
+     "text": "Book a confidential call with your wellness advisor to customise a program to suit you needs.",
+     "links": [
+      {
+       "text": "Book a confidential call with your wellness advisor to customise a program to su",
+       "href": "https://chat.ultimo-bots.com/176638179094366195899sjCmx",
+       "newTab": true
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Select a time that suits you here."
+    }
+   ]
+  },
+  {
+   "id": "comp-lk6o0enz2",
+   "blocks": [
+    {
+     "t": "img",
+     "file": "45f076_b088334054484ec7a14f5e62b6ca4162~mv2.webp",
+     "alt": ""
+    },
+    {
+     "t": "p",
+     "text": "DOWNLOAD RETREAT PACKAGES If you requested a call back we look forward to talking soon."
+    },
+    {
+     "t": "p",
+     "text": "First things first, open the PDF to see packages >>>>"
+    }
+   ]
+  },
+  {
+   "id": "comp-mnii5cxu",
+   "blocks": [
+    {
+     "t": "h",
+     "level": 1,
+     "text": "We get it... Finding a retreat that is right for you can be overwhelming. Get a custom retreat package that is built just for you! Or call us below...",
+     "links": [
+      {
+       "text": "We get it...",
+       "href": "/_files/ugd/45f076_06493ce8553948f98cac62a0ed3f1976.pdf",
+       "newTab": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "extraImages": [],
+ "jsonld": null
+}

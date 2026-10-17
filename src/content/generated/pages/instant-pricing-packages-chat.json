@@ -1,0 +1,134 @@
+{
+ "key": "instant-pricing-packages-chat",
+ "route": "/instant-pricing-packages-chat",
+ "status": "200",
+ "title": "Chat Here | Alive Luxury Wellness Retreats",
+ "description": "Chat here to our Alive wellness retreats booking concierge. Ask questions, get all inclusive retreat package details and pricing in less than 2 mins. Ask us questions here...",
+ "h1": [
+  "Hi I am Skye"
+ ],
+ "iframes": [],
+ "sections": [
+  {
+   "id": "comp-mjppolbf",
+   "blocks": [
+    {
+     "t": "img",
+     "file": "45f076_ba09df94745c461ab06e69edec4baf7b~mv2.webp",
+     "alt": "book a call with an alive wellness retreat advisor"
+    },
+    {
+     "t": "img",
+     "file": "f7831e_610acc19f7834bb6bd0a0dc2adc43129~mv2.png",
+     "alt": "Alive Luxury Private Mental Health Retreats and Rehab"
+    },
+    {
+     "t": "p",
+     "text": "Speak with your personal retreat advisor"
+    }
+   ]
+  },
+  {
+   "id": "comp-mjpmpzd2",
+   "blocks": [
+    {
+     "t": "h",
+     "level": 1,
+     "text": "Hi I am Skye"
+    },
+    {
+     "t": "p",
+     "text": "Hi, I’m Skye"
+    },
+    {
+     "t": "p",
+     "text": "I’m an Alive Coach and I personally design every retreat program from the bottom up with every client."
+    },
+    {
+     "t": "p",
+     "text": "At Alive - our retreats are personalised to your needs."
+    },
+    {
+     "t": "p",
+     "text": "Whatsapp me here to ask questions and I can help you create a custom package."
+    },
+    {
+     "t": "link",
+     "text": "Chat via Whatsapp here >",
+     "href": "https://wa.me/628135925588",
+     "newTab": true
+    }
+   ]
+  },
+  {
+   "id": "comp-mjpmpze42",
+   "blocks": [
+    {
+     "t": "h",
+     "level": 2,
+     "text": "Prefer to get your own info fast?"
+    },
+    {
+     "t": "p",
+     "text": "Download PDF Packages Here"
+    },
+    {
+     "t": "p",
+     "text": "Get all the info to your inbox."
+    },
+    {
+     "t": "p",
+     "text": "Ask questions via our chatbot below"
+    }
+   ]
+  }
+ ],
+ "extraImages": [],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Organization",
+     "@id": "https://www.aliveluxuryretreats.com/#organization",
+     "name": "Alive Luxury Retreats",
+     "alternateName": "Alive Luxury Wellness Retreats",
+     "url": "https://www.aliveluxuryretreats.com/",
+     "logo": "https://static.wixstatic.com/media/e365b3_de73b7f0e0fe4007a03817dd9c643d35~mv2.webp",
+     "email": "bookings@aliveluxuryretreats.com",
+     "contactPoint": [
+      {
+       "@type": "ContactPoint",
+       "contactType": "customer service",
+       "telephone": "+62 813 592 5588",
+       "availableLanguage": "en"
+      },
+      {
+       "@type": "ContactPoint",
+       "contactType": "customer service",
+       "telephone": "+44 745 030 7150",
+       "availableLanguage": "en"
+      }
+     ],
+     "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "ratingCount": "1029"
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://www.aliveluxuryretreats.com/instant-pricing-packages-chat#webpage",
+     "url": "https://www.aliveluxuryretreats.com/instant-pricing-packages-chat",
+     "name": "Instant Pricing Packages Chat",
+     "description": "Chat online or connect with the Alive team on WhatsApp to get immediate retreat details, package information, pricing guidance and answers to your questions.",
+     "inLanguage": "en",
+     "about": {
+      "@id": "https://www.aliveluxuryretreats.com/#organization"
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,236 @@
+{
+ "key": "get-a-quote",
+ "route": "/get-a-quote",
+ "status": "200",
+ "title": "Get A Custom Retreat Package and Quote",
+ "description": "Book our luxury Bali or Mexico wellness retreat programs for health rejuvenation, fitness, detox, weight loss stress and burn out, mental health recovery. Since 2009. Proven Results. Life changing. Book here.",
+ "h1": [
+  "3 Easy Ways To Book"
+ ],
+ "iframes": [],
+ "sections": [
+  {
+   "id": "comp-mj53dp0i",
+   "blocks": [
+    {
+     "t": "h",
+     "level": 1,
+     "text": "3 Easy Ways To Book"
+    }
+   ]
+  },
+  {
+   "id": "comp-mni6wilf",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Connect with an Alive Wellness Advisor and your booking concierge by phone or whatsapp.",
+     "links": [
+      {
+       "text": "by phone",
+       "href": "tel:+14785516454",
+       "newTab": false
+      },
+      {
+       "text": "whatsapp.",
+       "href": "https://wa.me/628135925588",
+       "newTab": true
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "They will help you get booked in today."
+    },
+    {
+     "t": "p",
+     "text": "Ask questions via chat. We will answer your questions, help you choose the right program and connect you to a booking manager ASAP.",
+     "links": [
+      {
+       "text": "Ask questions via chat.",
+       "href": "https://chat.ultimo-bots.com/176638179094366195899sjCmx",
+       "newTab": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "comp-mn7l5xms",
+   "blocks": [
+    {
+     "t": "h",
+     "level": 2,
+     "text": "Request A Booking"
+    },
+    {
+     "t": "label",
+     "text": "First name*"
+    },
+    {
+     "t": "field",
+     "type": "text",
+     "aria": "First name"
+    },
+    {
+     "t": "label",
+     "text": "Email*"
+    },
+    {
+     "t": "field",
+     "type": "email",
+     "aria": "Email"
+    },
+    {
+     "t": "label",
+     "text": "Preferred Dates and Length of Stay*"
+    },
+    {
+     "t": "field",
+     "type": "text",
+     "aria": "Preferred Dates and Length of Stay"
+    },
+    {
+     "t": "btn",
+     "text": "Get My Custom Quote >"
+    }
+   ]
+  },
+  {
+   "id": "comp-mj573qam",
+   "blocks": [
+    {
+     "t": "h",
+     "level": 2,
+     "text": "Not sure? Speak to an Alive Wellness Concierge Today To Book Your retreat......"
+    },
+    {
+     "t": "img",
+     "file": "45f076_dc6642574b3b46b691ab9dc93b7455d5~mv2.png",
+     "alt": "skye headshot"
+    }
+   ]
+  },
+  {
+   "id": "comp-mj5749ot",
+   "blocks": [
+    {
+     "t": "li",
+     "text": "Speak With Your Client Manager 45 min Book Now",
+     "links": [
+      {
+       "text": "Speak With Your Client Manager",
+       "href": "/booking-calendar/speak-with-your-client-manager",
+       "newTab": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "None",
+   "blocks": [
+    {
+     "t": "h",
+     "level": 2,
+     "text": "Speak With Your Client Manager"
+    },
+    {
+     "t": "p",
+     "text": "45 min"
+    }
+   ]
+  }
+ ],
+ "extraImages": [],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "How do I book an Alive wellness retreat or view live pricing and availability?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "https://aliveluxuryretreats.com/book-an-alive-luxury-retreat-in-bali-or-spain"
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Are there any current promotions or special discounts available for Alive retreats?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "https://aliveluxuryretreats.com/book#700-off-bali-early-2026-alive-luxuy-wellness-retreats-promo"
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is there a video explaining how to choose the right retreat program, dates, and accommodation?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "https://aliveluxuryretreats.com/book#video-walk-through-of-how-to-select-your-package-and-dates"
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How can I search retreat availability by location such as Bali or Spain?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "https://aliveluxuryretreats.com/book#booking-links-to-bali-or-spain-retreats-centres"
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Can I search Alive retreats by program type such as wellness, detox, burnout or mental health?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "https://aliveluxuryretreats.com/book#booking-links-to-different-program-types"
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Where can I compare retreat programs, inclusions, and pricing?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "https://aliveluxuryretreats.com/book#costs-and-inclusions-of-retreat-programs-images"
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What does a typical weekly schedule look like at an Alive wellness retreat?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "https://aliveluxuryretreats.com/book#weekly-program-inclusions-schedule"
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Can I speak to a booking concierge or customer support for help choosing the right retreat?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "https://aliveluxuryretreats.com/book#customer-support-book-an-instant-call"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "WebPage",
+   "@id": "https://www.aliveluxuryretreats.com/book#webpage",
+   "url": "https://www.aliveluxuryretreats.com/book",
+   "name": "Book a Luxury Wellness or Mental Health Retreat | Alive Luxury Retreats",
+   "description": "Book your luxury wellness or mental health retreat with Alive. View live availability, compare programs and inclusions, explore current promotions, and speak with a booking concierge to choose the right retreat in Bali or Spain.",
+   "inLanguage": "en",
+   "isPartOf": {
+    "@type": "WebSite",
+    "@id": "https://www.aliveluxuryretreats.com/#website"
+   },
+   "about": {
+    "@type": "Organization",
+    "name": "Alive Luxury Retreats",
+    "url": "https://www.aliveluxuryretreats.com/"
+   }
+  }
+ ]
+}

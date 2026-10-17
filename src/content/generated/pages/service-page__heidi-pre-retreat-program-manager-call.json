@@ -1,0 +1,111 @@
+{
+ "key": "service-page__heidi-pre-retreat-program-manager-call",
+ "route": "/service-page/heidi-pre-retreat-program-manager-call",
+ "status": "200",
+ "title": "Heidi - Pre Retreat Program Manager Call | Alive Luxury Wellness Retreats",
+ "description": "Calls are by phone, whatsapp or zoom - your choice.",
+ "h1": [
+  "Heidi - Pre Retreat Program Manager Call"
+ ],
+ "iframes": [],
+ "sections": [
+  {
+   "id": "None",
+   "blocks": [
+    {
+     "t": "li",
+     "text": "Service list"
+    },
+    {
+     "t": "li",
+     "text": "Heidi - Pre Retreat Program Manager Call"
+    },
+    {
+     "t": "h",
+     "level": 1,
+     "text": "Heidi - Pre Retreat Program Manager Call"
+    },
+    {
+     "t": "p",
+     "text": "Private holistic overview call with your Program Director to design your ultimate 1:1 program & team"
+    },
+    {
+     "t": "p",
+     "text": "1 hr 30 min"
+    },
+    {
+     "t": "p",
+     "text": "1 h 30 min"
+    },
+    {
+     "t": "p",
+     "text": "Bali"
+    },
+    {
+     "t": "btn",
+     "text": "Book Now"
+    },
+    {
+     "t": "h",
+     "level": 2,
+     "text": "Service Description"
+    },
+    {
+     "t": "p",
+     "text": "Calls are by phone, whatsapp or zoom - your choice. Allow 90 mins. Talk soon!"
+    },
+    {
+     "t": "h",
+     "level": 2,
+     "text": "Cancellation Policy"
+    },
+    {
+     "t": "p",
+     "text": "This sets in advance how far clients can book ahead"
+    },
+    {
+     "t": "h",
+     "level": 2,
+     "text": "Contact Details"
+    },
+    {
+     "t": "li",
+     "text": "Bali, Indonesia +447450307150 bookings@aliveluxuryretreats.com"
+    },
+    {
+     "t": "p",
+     "text": "Bali, Indonesia"
+    },
+    {
+     "t": "p",
+     "text": "+447450307150"
+    },
+    {
+     "t": "p",
+     "text": "bookings@aliveluxuryretreats.com"
+    }
+   ]
+  }
+ ],
+ "extraImages": [
+  {
+   "t": "img",
+   "file": "45f076_3643dfcb6d584d53ae1620993aba9798~mv2.png",
+   "alt": "",
+   "under": "",
+   "ids": [
+    "section"
+   ]
+  }
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org/",
+   "@type": "ImageObject",
+   "height": 474,
+   "width": 530,
+   "contentUrl": "https://static.wixstatic.com/media/45f076_3643dfcb6d584d53ae1620993aba9798~mv2.png/v1/fit/w_530,h_474,al_c/45f076_3643dfcb6d584d53ae1620993aba9798~mv2.png",
+   "url": "https://static.wixstatic.com/media/45f076_3643dfcb6d584d53ae1620993aba9798~mv2.png/v1/fit/w_530,h_474,al_c/45f076_3643dfcb6d584d53ae1620993aba9798~mv2.png"
+  }
+ ]
+}

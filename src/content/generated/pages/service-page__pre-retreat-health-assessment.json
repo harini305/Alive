@@ -1,0 +1,171 @@
+{
+ "key": "service-page__pre-retreat-health-assessment",
+ "route": "/service-page/pre-retreat-health-assessment",
+ "status": "200",
+ "title": "Pre-Retreat Health Assessment | Alive Luxury Wellness Retreats",
+ "description": "Once your retreat has been confirmed, this 90-minute consultation with our Head Therapist is designed to review your completed health questionnaire, gain a comprehensive understanding of your health, wellbeing, lifestyle, and goals, and begin tailoring your retreat program to your individual needs. This ensures our team can provide the highest level of personalised care and support from the",
+ "h1": [
+  "Pre-Retreat Health Assessment"
+ ],
+ "iframes": [],
+ "sections": [
+  {
+   "id": "None",
+   "blocks": [
+    {
+     "t": "li",
+     "text": "Service list"
+    },
+    {
+     "t": "li",
+     "text": "Pre-Retreat Health Assessment"
+    },
+    {
+     "t": "h",
+     "level": 1,
+     "text": "Pre-Retreat Health Assessment"
+    },
+    {
+     "t": "p",
+     "text": "Comprehensive Pre-Retreat Health Assessment"
+    },
+    {
+     "t": "p",
+     "text": "1 hr 30 min"
+    },
+    {
+     "t": "p",
+     "text": "1 h 30 min"
+    },
+    {
+     "t": "btn",
+     "text": "Book Now"
+    },
+    {
+     "t": "h",
+     "level": 2,
+     "text": "Service Description"
+    },
+    {
+     "t": "p",
+     "text": "Once your retreat has been confirmed, this 90-minute consultation with our Head Therapist is designed to review your completed health questionnaire, gain a comprehensive understanding of your health, wellbeing, lifestyle, and goals, and begin tailoring your retreat program to your individual needs. This ensures our team can provide the highest level of personalised care and support from the"
+    },
+    {
+     "t": "h",
+     "level": 2,
+     "text": "Cancellation Policy"
+    },
+    {
+     "t": "p",
+     "text": "Time Limits to book prior to session"
+    },
+    {
+     "t": "h",
+     "level": 2,
+     "text": "Contact Details"
+    },
+    {
+     "t": "li",
+     "text": "Queensland, Australia +447450307150 bookings@aliveluxuryretreats.com"
+    },
+    {
+     "t": "p",
+     "text": "Queensland, Australia"
+    },
+    {
+     "t": "p",
+     "text": "+447450307150"
+    },
+    {
+     "t": "p",
+     "text": "bookings@aliveluxuryretreats.com"
+    },
+    {
+     "t": "li",
+     "text": "Pico Boulevard, Santa Monica, CA, USA +447450307150 bookings@aliveluxuryretreats.com"
+    },
+    {
+     "t": "p",
+     "text": "Pico Boulevard, Santa Monica, CA, USA"
+    },
+    {
+     "t": "li",
+     "text": "Majorca, Spain +447450307150 bookings@aliveluxuryretreats.com"
+    },
+    {
+     "t": "p",
+     "text": "Majorca, Spain"
+    },
+    {
+     "t": "li",
+     "text": "London, UK +447450307150 bookings@aliveluxuryretreats.com"
+    },
+    {
+     "t": "p",
+     "text": "London, UK"
+    },
+    {
+     "t": "li",
+     "text": "Boca de Tomatlan, Jalisco, Mexico +447450307150 bookings@aliveluxuryretreats.com"
+    },
+    {
+     "t": "p",
+     "text": "Boca de Tomatlan, Jalisco, Mexico"
+    },
+    {
+     "t": "li",
+     "text": "Bali, Indonesia +447450307150 bookings@aliveluxuryretreats.com"
+    },
+    {
+     "t": "p",
+     "text": "Bali, Indonesia"
+    },
+    {
+     "t": "li",
+     "text": "Cape Town, South Africa +27649555021 gm@aliveluxuryretreats.com"
+    },
+    {
+     "t": "p",
+     "text": "Cape Town, South Africa"
+    },
+    {
+     "t": "p",
+     "text": "+27649555021"
+    },
+    {
+     "t": "p",
+     "text": "gm@aliveluxuryretreats.com"
+    },
+    {
+     "t": "li",
+     "text": "1209 Mountain Road Place Northeast ste r, Albuquerque, NM, USA +447450307150 bookings@aliveluxuryretreats.com"
+    },
+    {
+     "t": "p",
+     "text": "1209 Mountain Road Place Northeast ste r, Albuquerque, NM, USA"
+    }
+   ]
+  }
+ ],
+ "extraImages": [
+  {
+   "t": "img",
+   "file": "253a4a_3a3b2fd7f2594b7aa3abf657386d9514~mv2.png",
+   "alt": "",
+   "under": "",
+   "ids": [
+    "section"
+   ]
+  }
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org/",
+   "@type": "ImageObject",
+   "height": 1184,
+   "width": 1202,
+   "contentUrl": "https://static.wixstatic.com/media/253a4a_3a3b2fd7f2594b7aa3abf657386d9514~mv2.png/v1/fit/w_1202,h_1184,al_c/253a4a_3a3b2fd7f2594b7aa3abf657386d9514~mv2.png",
+   "url": "https://static.wixstatic.com/media/253a4a_3a3b2fd7f2594b7aa3abf657386d9514~mv2.png/v1/fit/w_1202,h_1184,al_c/253a4a_3a3b2fd7f2594b7aa3abf657386d9514~mv2.png"
+  }
+ ]
+}

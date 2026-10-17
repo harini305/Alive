@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+.qa
+# 331 MB of original images/video/PDF — keep locally; web-sized copies are in public/
+source-assets
+# 28 MB of audit captures — keep locally; parsed output is in src/content/generated
+docs/source-audit
+.vercel

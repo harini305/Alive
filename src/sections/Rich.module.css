@@ -1,0 +1,6 @@
+/* long ✓ / bullet lists: two columns from tablet up, so they fill the width instead of running on */
+@media (min-width: 700px) {
+  .cols { grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: clamp(24px, 3vw, 48px); }
+  :global(.checklist).cols li:nth-last-child(2):nth-child(odd) { border-bottom: 1px solid var(--line); }
+  :global(.dotlist).cols { display: grid; }
+}

@@ -1,0 +1,430 @@
+{
+ "key": "book-call",
+ "route": "/book-call",
+ "status": "200",
+ "title": "Speak To An Alive Wellness Retreat Coach and Advisor",
+ "description": "Book a free call with the Alive team to custom design your ultimate retreat.",
+ "h1": [
+  "Speak To Your Alive Coach Talk To Your Helpful Wellness & Life Coach To Start Your Journey"
+ ],
+ "iframes": [],
+ "sections": [
+  {
+   "id": "comp-l1vhr3y8",
+   "blocks": [
+    {
+     "t": "h",
+     "level": 1,
+     "text": "Speak To Your Alive Coach Talk To Your Helpful Wellness & Life Coach To Start Your Journey"
+    },
+    {
+     "t": "img",
+     "file": "45f076_dc6642574b3b46b691ab9dc93b7455d5~mv2.png",
+     "alt": "skye headshot"
+    },
+    {
+     "t": "p",
+     "text": "*** This call is 100% confidential as per our terms here."
+    },
+    {
+     "t": "p",
+     "text": "There are a few ways we can answer your questions & begin a thorough holistic assessment of your needs:"
+    },
+    {
+     "t": "p",
+     "text": "Click below to select a time that suits you in our calendar"
+    }
+   ]
+  },
+  {
+   "id": "comp-l2idlkky",
+   "blocks": [
+    {
+     "t": "li",
+     "text": "Speak With Your Client Manager Book A Call At A Time That Suits 45 min Book Now",
+     "links": [
+      {
+       "text": "Speak With Your Client Manager",
+       "href": "/booking-calendar/speak-with-your-client-manager",
+       "newTab": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "None",
+   "blocks": [
+    {
+     "t": "h",
+     "level": 2,
+     "text": "Speak With Your Client Manager"
+    },
+    {
+     "t": "p",
+     "text": "Book A Call At A Time That Suits"
+    },
+    {
+     "t": "p",
+     "text": "45 min"
+    }
+   ]
+  },
+  {
+   "id": "comp-l1vhr3z6",
+   "blocks": [
+    {
+     "t": "h",
+     "level": 2,
+     "text": "A gentle, supportive conversation... no pressure, no obligation."
+    },
+    {
+     "t": "h",
+     "level": 2,
+     "text": "Speak With Your Alive Coach!"
+    },
+    {
+     "t": "h",
+     "level": 5,
+     "text": "A calm, supportive conversation to help you choose the right retreat"
+    },
+    {
+     "t": "p",
+     "text": "You don’t need to have it all figured out before you speak to me."
+    },
+    {
+     "t": "p",
+     "text": "This is a relaxed, confidential conversation with an Alive wellness and life coach designed to help you feel clear, supported and confident about your next step."
+    },
+    {
+     "t": "p",
+     "text": "There is no pressure, no obligation and no sales agenda. Just guidance, answers and a sense of what’s possible for you."
+    },
+    {
+     "t": "h",
+     "level": 2,
+     "text": "What this conversation is for?"
+    },
+    {
+     "t": "p",
+     "text": "Most guests come to this call feeling one (or more) of the following:"
+    },
+    {
+     "t": "li",
+     "text": "ready for health changes"
+    },
+    {
+     "t": "li",
+     "text": "overwhelmed or burnt out"
+    },
+    {
+     "t": "li",
+     "text": "ready for a reset or detox"
+    },
+    {
+     "t": "li",
+     "text": "craving emotional clarity or healing"
+    },
+    {
+     "t": "li",
+     "text": "wanting to reconnect with themselves"
+    },
+    {
+     "t": "li",
+     "text": "unsure which retreat, location or program is right"
+    },
+    {
+     "t": "p",
+     "text": "This call helps you move from uncertainty to clarity quickly and gently."
+    },
+    {
+     "t": "h",
+     "level": 2,
+     "text": "What we’ll explore together..."
+    },
+    {
+     "t": "h",
+     "level": 5,
+     "text": "🌿 Your retreat vision"
+    },
+    {
+     "t": "p",
+     "text": "We’ll talk about what’s drawing you here right now."
+    },
+    {
+     "t": "p",
+     "text": "Whether that’s wellness, detox, emotional healing, stress relief, life reset, or simply time and space to breathe."
+    },
+    {
+     "t": "p",
+     "text": "You don’t need the “right words”. We’ll guide the conversation."
+    },
+    {
+     "t": "h",
+     "level": 5,
+     "text": "🌍 Location & timing"
+    },
+    {
+     "t": "p",
+     "text": "We’ll help you choose the best location for you (Bali, Mexico), talk through travel logistics, and share how quickly you could arrive if timing matters."
+    },
+    {
+     "t": "p",
+     "text": "Our travel concierge makes the process simple and stress-free."
+    },
+    {
+     "t": "h",
+     "level": 5,
+     "text": "🧘♀️ Your personalised retreat experience"
+    },
+    {
+     "t": "p",
+     "text": "We’ll explain how our signature Alive program works and how it can be tailored to you including:"
+    },
+    {
+     "t": "li",
+     "text": "daily wellness, movement, yoga and mindfulness"
+    },
+    {
+     "t": "li",
+     "text": "fitness and movement"
+    },
+    {
+     "t": "li",
+     "text": "nature and adventure"
+    },
+    {
+     "t": "li",
+     "text": "emotional and energetic healing"
+    },
+    {
+     "t": "li",
+     "text": "life coaching and clarity workshops"
+    },
+    {
+     "t": "li",
+     "text": "optional one-to-one therapies and deeper support"
+    },
+    {
+     "t": "li",
+     "text": "health sessions"
+    },
+    {
+     "t": "p",
+     "text": "You’ll leave the call understanding what your retreat could look and feel like, not just what’s included."
+    },
+    {
+     "t": "h",
+     "level": 5,
+     "text": "🏡 Accommodation & style"
+    },
+    {
+     "t": "p",
+     "text": "We’ll help you choose:"
+    },
+    {
+     "t": "li",
+     "text": "luxury private suite or villa"
+    },
+    {
+     "t": "li",
+     "text": "small group retreat with personal support"
+    },
+    {
+     "t": "li",
+     "text": "or a fully private, confidential experience"
+    },
+    {
+     "t": "p",
+     "text": "You’ll understand the different styles and what suits you best."
+    },
+    {
+     "t": "h",
+     "level": 5,
+     "text": "🍃 Food & nourishment"
+    },
+    {
+     "t": "p",
+     "text": "We’ll talk through our approach to nourishment and how dietary needs can be fully personalised gently, intuitively and without rigidity."
+    },
+    {
+     "t": "h",
+     "level": 5,
+     "text": "💫 Your life, gently understood"
+    },
+    {
+     "t": "p",
+     "text": "If you wish, we can also explore:"
+    },
+    {
+     "t": "li",
+     "text": "how stress, lifestyle or life transitions may be affecting you"
+    },
+    {
+     "t": "li",
+     "text": "what support you already have and what you may be missing"
+    },
+    {
+     "t": "li",
+     "text": "what kind of reset would feel most nourishing right now"
+    },
+    {
+     "t": "p",
+     "text": "This is not about labels, diagnosis or analysing you. It’s about understanding you where you are, and where you’d like to be."
+    },
+    {
+     "t": "h",
+     "level": 5,
+     "text": "💰 Pricing & next steps"
+    },
+    {
+     "t": "p",
+     "text": "Every Alive retreat is created uniquely."
+    },
+    {
+     "t": "p",
+     "text": "On the call, we’ll:"
+    },
+    {
+     "t": "li",
+     "text": "explain starting prices clearly"
+    },
+    {
+     "t": "li",
+     "text": "talk through options that fit your needs and budget"
+    },
+    {
+     "t": "li",
+     "text": "outline next steps if and when you feel ready"
+    },
+    {
+     "t": "p",
+     "text": "Many guests tell us they feel lighter and clearer by the end of this conversation — even before booking anything."
+    },
+    {
+     "t": "h",
+     "level": 5,
+     "text": "Before the call (optional)"
+    },
+    {
+     "t": "p",
+     "text": "If you choose, you’ll receive a short 3-minute questionnaire before we speak. It simply helps us understand what you’re looking for so the call feels focused, personal and supportive."
+    },
+    {
+     "t": "h",
+     "level": 4,
+     "text": "This conversation is for you if:"
+    },
+    {
+     "t": "li",
+     "text": "you want clarity without pressure"
+    },
+    {
+     "t": "li",
+     "text": "you’re curious but not yet committed"
+    },
+    {
+     "t": "li",
+     "text": "you want to feel supported, not sold to"
+    },
+    {
+     "t": "li",
+     "text": "you’d like to speak with a real human who understands this journey"
+    },
+    {
+     "t": "p",
+     "text": "We look forward to meeting you and supporting you — wherever you are on your path."
+    },
+    {
+     "t": "p",
+     "text": "With warmth,"
+    },
+    {
+     "t": "p",
+     "text": "The Alive Team"
+    },
+    {
+     "t": "link",
+     "text": "BOOK YOUR CALL TIME",
+     "href": "/booking-calendar/design-your-ultimate-retreat",
+     "newTab": true
+    }
+   ]
+  },
+  {
+   "id": "comp-mjpfz8yn",
+   "blocks": [
+    {
+     "t": "h",
+     "level": 3,
+     "text": "Not sure? Simply whatsapp your Alive Coach here directly: WHATSAPP: +62 813 592 5588",
+     "links": [
+      {
+       "text": "WHATSAPP: +62 813 592 5588",
+       "href": "https://wa.me/628135925588",
+       "newTab": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "extraImages": [
+  {
+   "t": "img",
+   "file": "11062b_4a895152683d449fa5e85949f3dcdaf1~mv2.jpg",
+   "alt": "",
+   "under": "",
+   "ids": [
+    "page"
+   ]
+  }
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Organization",
+     "@id": "https://www.aliveluxuryretreats.com/#organization",
+     "name": "Alive Luxury Retreats",
+     "alternateName": "Alive Luxury Wellness Retreats",
+     "url": "https://www.aliveluxuryretreats.com/",
+     "logo": "https://static.wixstatic.com/media/e365b3_de73b7f0e0fe4007a03817dd9c643d35~mv2.webp",
+     "email": "bookings@aliveluxuryretreats.com",
+     "contactPoint": [
+      {
+       "@type": "ContactPoint",
+       "contactType": "customer service",
+       "telephone": "+62 813 592 5588",
+       "availableLanguage": "en"
+      },
+      {
+       "@type": "ContactPoint",
+       "contactType": "customer service",
+       "telephone": "+44 745 030 7150",
+       "availableLanguage": "en"
+      }
+     ],
+     "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "ratingCount": "1029"
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://www.aliveluxuryretreats.com/book-call#webpage",
+     "url": "https://www.aliveluxuryretreats.com/book-call",
+     "name": "Book a Wellness Advisor Call",
+     "description": "Book a confidential call with an Alive coach or wellness advisor to explore your needs, complete a holistic assessment and design a personalised retreat program with no pressure and no sales agenda.",
+     "inLanguage": "en",
+     "about": {
+      "@id": "https://www.aliveluxuryretreats.com/#organization"
+     }
+    }
+   ]
+  }
+ ]
+}

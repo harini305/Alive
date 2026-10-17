@@ -1,0 +1,269 @@
+{
+ "key": "search",
+ "route": "/search",
+ "status": "200",
+ "title": "Search Results | Alive Luxury Wellness Retreats",
+ "description": "https://static.wixstatic.com/media/e365b3_de73b7f0e0fe4007a03817dd9c643d35%7Emv2.webp",
+ "h1": [
+  "Search Results",
+  "Search this site"
+ ],
+ "iframes": [],
+ "sections": [
+  {
+   "id": "comp-lk6o0enw1",
+   "blocks": [
+    {
+     "t": "h",
+     "level": 1,
+     "text": "Search Results"
+    },
+    {
+     "t": "h",
+     "level": 1,
+     "text": "Search this site"
+    },
+    {
+     "t": "field",
+     "type": "search",
+     "aria": "Site search"
+    },
+    {
+     "t": "p",
+     "text": "Products (12)"
+    },
+    {
+     "t": "p",
+     "text": "Services (4)"
+    },
+    {
+     "t": "p",
+     "text": "Blog Posts (9)"
+    },
+    {
+     "t": "p",
+     "text": "Other Pages (25)"
+    }
+   ]
+  },
+  {
+   "id": "None",
+   "blocks": [
+    {
+     "t": "h",
+     "level": 2,
+     "text": "Filter by"
+    },
+    {
+     "t": "img",
+     "file": "a9ff3b_03155a7e79bd4cca9aaf3f0e98378100.jpg",
+     "alt": ""
+    },
+    {
+     "t": "img",
+     "file": "a9ff3b_119100d8c0144221b2f6733f4d205d2e.jpg",
+     "alt": ""
+    },
+    {
+     "t": "img",
+     "file": "a9ff3b_18ef3d9c8058444ea08059329237a1f2.jpg",
+     "alt": ""
+    },
+    {
+     "t": "img",
+     "file": "a9ff3b_1e66a0a1739b419093a0a7ad9fd2b029.jpg",
+     "alt": ""
+    },
+    {
+     "t": "img",
+     "file": "a9ff3b_1eec973ae9eb43f4bca9876e5d90f6fa.jpg",
+     "alt": ""
+    },
+    {
+     "t": "img",
+     "file": "a9ff3b_2dc1e209d10945a7b4329d2328dfcd7b.jpg",
+     "alt": ""
+    },
+    {
+     "t": "img",
+     "file": "a9ff3b_368c28dfbd9a4a47a7db85fe6c956996.jpg",
+     "alt": ""
+    },
+    {
+     "t": "img",
+     "file": "a9ff3b_4121bbe6516d48278536acade5b02421.jpg",
+     "alt": ""
+    },
+    {
+     "t": "img",
+     "file": "a9ff3b_4181ada6b8024111b57df31ca9a73863.jpg",
+     "alt": ""
+    },
+    {
+     "t": "img",
+     "file": "a9ff3b_4b1550da0a014dea9d8dca081ce5b424.jpg",
+     "alt": ""
+    },
+    {
+     "t": "img",
+     "file": "a9ff3b_5bc54b597d67423d8022157cef968f7b.jpg",
+     "alt": ""
+    },
+    {
+     "t": "img",
+     "file": "a9ff3b_5e32b6d9419343c29c68e9173b5461e0.jpg",
+     "alt": ""
+    },
+    {
+     "t": "img",
+     "file": "a9ff3b_779cdb925bf04bf58be912cb8a946432.jpg",
+     "alt": ""
+    },
+    {
+     "t": "img",
+     "file": "a9ff3b_849d96e85f044bc7ae0a47f78d9a898b.jpg",
+     "alt": ""
+    },
+    {
+     "t": "img",
+     "file": "a9ff3b_9928686dcfa740bd802821d0b6f4ac03.jpg",
+     "alt": ""
+    },
+    {
+     "t": "img",
+     "file": "a9ff3b_a71f9a5bd820418dbafbf56578b34c2a.jpg",
+     "alt": ""
+    },
+    {
+     "t": "img",
+     "file": "a9ff3b_a7a3f25cb2fb46dcabf34d079498f371.jpg",
+     "alt": ""
+    },
+    {
+     "t": "img",
+     "file": "a9ff3b_a943ab358e5b4980be1f449ea375e949.jpg",
+     "alt": ""
+    },
+    {
+     "t": "img",
+     "file": "a9ff3b_b2039d1e6a954631a41b85d674400f19.jpg",
+     "alt": ""
+    },
+    {
+     "t": "img",
+     "file": "a9ff3b_bdeb8c91d120488a9cdc483553fc87de.jpg",
+     "alt": ""
+    },
+    {
+     "t": "img",
+     "file": "a9ff3b_c6158b4d41784ae8b08337a331e1de7f.jpg",
+     "alt": ""
+    },
+    {
+     "t": "img",
+     "file": "a9ff3b_ea68bd8398ac489a8e4e8b99755f96b0.jpg",
+     "alt": ""
+    },
+    {
+     "t": "img",
+     "file": "a9ff3b_ed3b544c319b4fad9c222c791a997832.jpg",
+     "alt": ""
+    },
+    {
+     "t": "img",
+     "file": "a9ff3b_f9b427f2017641468a0b939aa26777b5.jpg",
+     "alt": ""
+    },
+    {
+     "t": "li",
+     "text": "CategoryAll Products"
+    },
+    {
+     "t": "btn",
+     "text": "Category"
+    },
+    {
+     "t": "label",
+     "text": "All Products"
+    },
+    {
+     "t": "field",
+     "type": "checkbox",
+     "aria": null
+    },
+    {
+     "t": "li",
+     "text": "Price$7 $130"
+    },
+    {
+     "t": "btn",
+     "text": "Price"
+    },
+    {
+     "t": "li",
+     "text": "I'm a product Price$25.00"
+    },
+    {
+     "t": "p",
+     "text": "I'm a product"
+    },
+    {
+     "t": "li",
+     "text": "I'm a product Price$15.00"
+    },
+    {
+     "t": "li",
+     "text": "Sale I'm a product Regular Price$100.00Sale Price$95.00",
+     "links": [
+      {
+       "text": "Sale",
+       "href": "/i-m-a-product-10",
+       "newTab": false
+      }
+     ]
+    },
+    {
+     "t": "li",
+     "text": "I'm a product Price$130.00"
+    },
+    {
+     "t": "li",
+     "text": "I'm a product Price$120.00"
+    },
+    {
+     "t": "li",
+     "text": "New I'm a product Price$7.50"
+    },
+    {
+     "t": "li",
+     "text": "I'm a product Price$45.00"
+    },
+    {
+     "t": "li",
+     "text": "I'm a product Price$20.00"
+    },
+    {
+     "t": "li",
+     "text": "I'm a product Price$85.00"
+    },
+    {
+     "t": "li",
+     "text": "I'm a product Price$40.00"
+    },
+    {
+     "t": "li",
+     "text": "Best Seller I'm a product Price$10.00",
+     "links": [
+      {
+       "text": "Best Seller",
+       "href": "/i-m-a-product-2",
+       "newTab": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "extraImages": [],
+ "jsonld": null
+}

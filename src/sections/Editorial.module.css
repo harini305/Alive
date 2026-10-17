@@ -1,0 +1,97 @@
+.head { display: grid; gap: 16px; justify-items: start; margin-bottom: clamp(24px, 3vw, 40px); }
+.columnsHead .head { margin-bottom: 0; }
+.title { font-size: var(--fs-h2); }
+.titleSm { font-size: var(--fs-h3); }
+.subtitle {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: clamp(1.02rem, 0.95rem + 0.4vw, 1.25rem);
+  line-height: 1.5;
+  color: var(--olive-text);
+  max-width: 52ch;
+}
+:global(.surface-ink) .subtitle { color: var(--gold); }
+.rule { display: block; width: 64px; height: 1px; background: var(--gold); margin-top: 6px; }
+.body { max-width: var(--max-text); }
+
+.centered .head { justify-items: center; text-align: center; }
+.centered .head .rule { margin-inline: auto; }
+.centered .body { margin-inline: auto; text-align: center; }
+.centered .body :global(.checklist), .centered .body :global(.dotlist) { text-align: left; display: inline-grid; }
+.centered :global(.flow-cta) { justify-content: center; }
+
+.columns { display: grid; gap: 32px; }
+@media (min-width: 960px) {
+  .columns { grid-template-columns: 5fr 7fr; gap: clamp(22px, 3.2vw, 53px); align-items: start; }
+  .columnsHead { position: sticky; top: calc(var(--header-h) + 40px); }
+}
+
+/* media top aligns with the heading (collages no longer start far below the H2) */
+.split { display: grid; gap: 40px; align-items: start; }
+@media (min-width: 900px) {
+  .split { grid-template-columns: 1fr 1fr; gap: clamp(22px, 3.2vw, 56px); }
+  .flip .mediaCol { order: 2; }
+  .tall .mediaSticky { position: sticky; top: calc(var(--header-h) + 32px); }
+  .collage .mediaSticky { padding-bottom: clamp(28px, 4vw, 56px); }
+}
+.mediaSticky { position: relative; }
+/* frame follows the photograph's own shape (clamped 4:5 … 16:10) instead of a fixed tall crop */
+.mainMedia { aspect-ratio: var(--ar, 4 / 5); width: 100%; margin: 0; }
+.withSecond { width: 82%; margin-left: auto; }
+.flip .withSecond { margin-left: 0; margin-right: auto; }
+/* collage inset: smaller, tucked into the bottom corner away from the main subject */
+.secondMedia {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 34%;
+  aspect-ratio: 3 / 4;
+  margin: 0;
+  border: 8px solid var(--bg, var(--ivory));
+}
+.flip .secondMedia { left: auto; right: 0; }
+@media (max-width: 899px) {
+  .mainMedia { aspect-ratio: var(--ar-m, 4 / 3); }
+  .withSecond { width: 100%; }
+  .secondMedia { display: none; }
+}
+.textCol { min-width: 0; }
+/* copy beside one photo: the photo shrinks to the text height (never below 320px, never taller
+   than its own shape), so short copy is not left next to a tall empty column */
+@media (min-width: 900px) {
+  .fit { align-items: stretch; }
+  /* size containment: the photo column takes the row height from the text instead of pushing it
+     to the photo natural height */
+  .fit .mediaCol { position: relative; min-height: 320px; container-type: size; }
+  /* the photo follows the text height up to its own shape, then stays in view while longer copy scrolls */
+  .fit .mediaSticky { position: sticky; top: calc(var(--header-h) + 32px); height: min(100%, calc(100cqw / var(--ar, 0.8))); min-height: 320px; }
+  .fit .mainMedia { aspect-ratio: auto; height: 100%; }
+  /* cropped to the copy height: keep the upper part, where faces usually are */
+  .fit .mainMedia img { object-position: 50% 18%; }
+}
+
+/* long copy continued below the photo: full width; lists run in a two-column grid so rows line up */
+.below { margin-top: clamp(24px, 3vw, 40px); }
+.below > :global(p), .below > :global(.flow-h) { max-width: var(--max-text); }
+@media (min-width: 900px) {
+  /* lists of three or more points use the full width in two aligned columns; one or two stay a single column */
+  .below :global(.checklist):has(> li:nth-child(3)), .below :global(.dotlist):has(> li:nth-child(3)) { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: clamp(32px, 4vw, 64px); }
+  .below :global(.checklist):has(> li:nth-child(3)) li:nth-last-child(2):nth-child(odd) { border-bottom: 1px solid var(--line); }
+  .below :global(.checklist):not(:has(> li:nth-child(3))), .below :global(.dotlist):not(:has(> li:nth-child(3))) { max-width: var(--max-text); }
+  /* short copy beside a two-photo collage sits centred against the photos */
+  .collage:not(.tall) { align-items: center; }
+}
+
+.strip {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: clamp(10px, 1.4vw, 20px);
+  margin-top: clamp(22px, 2.7vw, 42px);
+}
+.strip figure { margin: 0; aspect-ratio: 4 / 5; }
+
+/* arch-shaped photography */
+.mainMedia { border-radius: var(--arch); }
+.secondMedia { border-radius: var(--arch); }
+.strip figure { border-radius: var(--arch); }
+@media (max-width: 899px) { .mainMedia { border-radius: var(--arch-wide); margin-inline: auto; } }

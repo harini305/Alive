@@ -1,0 +1,123 @@
+{
+ "key": "contact",
+ "route": "/contact",
+ "status": "200",
+ "title": "Contact Alive Wellness Retreats",
+ "description": "Message, email, whatsapp or book a call with our helpful retreat advisors to design your own personalised retreat program today.",
+ "h1": [
+  "Contact Alive"
+ ],
+ "iframes": [],
+ "sections": [
+  {
+   "id": "comp-lkc5ocij",
+   "blocks": [
+    {
+     "t": "h",
+     "level": 1,
+     "text": "Contact Alive"
+    },
+    {
+     "t": "img",
+     "file": "45f076_dc6642574b3b46b691ab9dc93b7455d5~mv2.png",
+     "alt": "skye headshot"
+    },
+    {
+     "t": "p",
+     "text": "WHATSAPP"
+    },
+    {
+     "t": "p",
+     "text": "WHATSAPP: +62 813 592 5588",
+     "links": [
+      {
+       "text": "+62 813 592 5588",
+       "href": "tel:+62 813 592 5588",
+       "newTab": false
+      }
+     ]
+    },
+    {
+     "t": "link",
+     "text": "WHATSAPP HERE",
+     "href": "https://wa.me/628135925588",
+     "newTab": true
+    },
+    {
+     "t": "p",
+     "text": "EMAIL"
+    },
+    {
+     "t": "p",
+     "text": "bookings@aliveluxuryretreats.com"
+    },
+    {
+     "t": "link",
+     "text": "EMAIL",
+     "href": "mailto:bookings@aliveluxuryretreats.com"
+    },
+    {
+     "t": "p",
+     "text": "CALL"
+    },
+    {
+     "t": "p",
+     "text": "+62 813 592 5588"
+    },
+    {
+     "t": "link",
+     "text": "CALL HERE",
+     "href": "tel:+62 813 592 5588"
+    },
+    {
+     "t": "p",
+     "text": "GET A QUOTE"
+    },
+    {
+     "t": "p",
+     "text": "GET A CUSTOM PACKAGE"
+    },
+    {
+     "t": "link",
+     "text": "QUOTE",
+     "href": "/contact"
+    },
+    {
+     "t": "p",
+     "text": "Have Questions?"
+    },
+    {
+     "t": "p",
+     "text": "If you would like to speak to an Alive Coach and Wellness Concierge to find out more and customise your unique wellness retreat program book a time to chat here."
+    },
+    {
+     "t": "li",
+     "text": "Speak With Your Client Manager Available Online Book A Call At A Time That Suits Book Now",
+     "links": [
+      {
+       "text": "Speak With Your Client Manager",
+       "href": "/booking-calendar/speak-with-your-client-manager",
+       "newTab": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "None",
+   "blocks": [
+    {
+     "t": "h",
+     "level": 2,
+     "text": "Speak With Your Client Manager"
+    },
+    {
+     "t": "p",
+     "text": "Book A Call At A Time That Suits"
+    }
+   ]
+  }
+ ],
+ "extraImages": [],
+ "jsonld": null
+}

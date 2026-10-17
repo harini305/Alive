@@ -1,0 +1,70 @@
+/* bar = 58px row + 1px border + safe area; Footer.module.css pads the page end by the same amount */
+.bar {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 65;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  background: rgba(37, 36, 32, 0.96);
+  backdrop-filter: blur(10px);
+  border-top: 1px solid var(--line-dark);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+@media (min-width: 768px) { .bar { display: none; } }
+.bar a {
+  display: grid;
+  justify-items: center;
+  align-content: center;
+  gap: 4px;
+  padding: 8px 4px;
+  min-height: 58px;
+  color: var(--text-on-dark);
+  text-decoration: none;
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+.bar a + a { border-left: 1px solid var(--line-dark); }
+.bar a svg { color: var(--champagne); }
+.bar a:last-child svg { color: #25d366; }
+
+.top {
+  position: fixed;
+  right: 24px; /* stacked above the WhatsApp button, clear of footer text */
+  bottom: calc(88px + env(safe-area-inset-bottom));
+  z-index: 64;
+  width: 44px;
+  height: 44px;
+  display: grid;
+  place-items: center;
+  border: 1px solid var(--line);
+  background: var(--ivory);
+  color: var(--ink);
+  border-radius: 50%;
+  cursor: pointer;
+}
+.top:hover { background: var(--ink); color: var(--champagne); }
+
+/* floating WhatsApp button (icon only) */
+.wa {
+  position: fixed;
+  right: 20px;
+  bottom: calc(22px + env(safe-area-inset-bottom));
+  z-index: 66;
+  display: grid;
+  place-items: center;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: #25d366;
+  color: #fff;
+  box-shadow: 0 12px 26px -10px rgba(0, 0, 0, 0.45);
+  transition: transform 0.35s var(--ease-out), background-color 0.3s;
+}
+.wa:hover, .wa:focus-visible { transform: translateY(-3px) scale(1.04); background: #1ebe5a; }
+
+/* mobile: the bar already has WhatsApp; back-to-top would only stack over content */
+@media (max-width: 767px) { .wa, .top { display: none; } }

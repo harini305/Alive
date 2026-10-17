@@ -1,0 +1,125 @@
+{
+ "key": "download",
+ "route": "/download",
+ "status": "200",
+ "title": "Download Packages | Alive Luxury Wellness Retreats",
+ "description": "Download our luxury packages for wellness, spa and health, stress and burn out, mental health recovery. Experience a 360 health, mental health and full life change program personalised to your needs. Since 2009. Proven Results. Life changing.",
+ "h1": [
+  "Get Retreat packages & Pricing"
+ ],
+ "iframes": [],
+ "sections": [
+  {
+   "id": "comp-lvahqmsp",
+   "blocks": [
+    {
+     "t": "img",
+     "file": "f7831e_610acc19f7834bb6bd0a0dc2adc43129~mv2.png",
+     "alt": "Alive Luxury Private Mental Health Retreats and Rehab"
+    },
+    {
+     "t": "link",
+     "text": "Need help? Whatsapp Here >",
+     "href": "https://wa.me/628135925588",
+     "newTab": true
+    }
+   ]
+  },
+  {
+   "id": "comp-lk6o0emq",
+   "blocks": [
+    {
+     "t": "h",
+     "level": 1,
+     "text": "Get Retreat packages & Pricing"
+    }
+   ]
+  },
+  {
+   "id": "comp-lvahr43o",
+   "blocks": [
+    {
+     "t": "img",
+     "file": "45f076_1a801255247a49ab98e1061bc27bf750~mv2.png",
+     "alt": "skye headshot"
+    },
+    {
+     "t": "img",
+     "file": "45f076_5fd923aeba294c4c8d10fda13d667de8~mv2.png",
+     "alt": "PDF ALIVE MOCK UP"
+    },
+    {
+     "t": "p",
+     "text": "Welcome to Alive. We are here to walk you through exactly what program is best for you and introduce you to the outstanding team and programs at Alive."
+    },
+    {
+     "t": "p",
+     "text": "Leave your details below to receive our packages and pricing and tick the box to speak to your wellness concierge to custom design your own program."
+    },
+    {
+     "t": "p",
+     "text": "Skye"
+    },
+    {
+     "t": "p",
+     "text": "Client Manager"
+    },
+    {
+     "t": "label",
+     "text": "First name*"
+    },
+    {
+     "t": "field",
+     "type": "text",
+     "aria": "First name"
+    },
+    {
+     "t": "label",
+     "text": "Email*"
+    },
+    {
+     "t": "field",
+     "type": "email",
+     "aria": "Email"
+    },
+    {
+     "t": "btn",
+     "text": "Get PDF Packages & Pricing >"
+    }
+   ]
+  }
+ ],
+ "extraImages": [],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Organization",
+     "@id": "https://www.aliveluxuryretreats.com/#organization",
+     "name": "Alive Luxury Retreats",
+     "alternateName": "Alive Luxury Wellness Retreats",
+     "url": "https://www.aliveluxuryretreats.com/",
+     "logo": "https://static.wixstatic.com/media/e365b3_de73b7f0e0fe4007a03817dd9c643d35~mv2.webp",
+     "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "ratingCount": "1029"
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://www.aliveluxuryretreats.com/download#webpage",
+     "url": "https://www.aliveluxuryretreats.com/download",
+     "name": "Retreat Packages and Pricing",
+     "description": "Download retreat packages and pricing for luxury wellness retreats, burnout retreats, mental health retreats and private luxury retreat experiences.",
+     "inLanguage": "en",
+     "about": {
+      "@id": "https://www.aliveluxuryretreats.com/#organization"
+     }
+    }
+   ]
+  }
+ ]
+}

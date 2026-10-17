@@ -1,0 +1,9 @@
+.hero { padding: calc(var(--header-h) + clamp(20px, 3vw, 44px)) 0 clamp(20px, 2.6vw, 36px); background: var(--ivory); }
+.title { font-size: min(var(--fs-h1), 8.5vh); line-height: 1.06; margin: 16px 0 24px; }
+.cart { display: grid; gap: 48px; }
+@media (min-width: 900px) { .cart { grid-template-columns: 1.4fr 1fr; gap: 96px; align-items: start; } }
+.cart .lead { margin-bottom: 24px; }
+.summary { display: grid; gap: 14px; justify-items: start; padding: 28px; background: var(--paper); border: 1px solid var(--line); }
+.summary p { margin: 0; }
+.summaryTitle { font-size: 1.3rem; }
+.hero :global(.page-head) { margin-bottom: 24px; }

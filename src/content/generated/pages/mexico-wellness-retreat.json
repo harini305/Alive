@@ -1,0 +1,754 @@
+{
+ "key": "mexico-wellness-retreat",
+ "route": "/mexico-wellness-retreat",
+ "status": "200",
+ "title": "Alive Luxury Private Retreats Mexico",
+ "description": "Luxury Mexico retreat offering a 5 star private retreat experience for wellness, detox, burnout recovery, and mental health. Exclusive, one on one luxury retreats delivered in ultra private beachfront villas.",
+ "h1": [
+  "Alive Luxury Private Retreats Mexico"
+ ],
+ "iframes": [
+  "https://static.parastorage.com/services/editor-elements-library/dist/siteAssets/media/Carousel.b605841e.html?compId=comp-mocgr4rw&deviceType=desktop&locale=en&viewMode=site&imageSizingStrategy=fit"
+ ],
+ "sections": [
+  {
+   "id": "comp-mmd0yk33",
+   "blocks": [
+    {
+     "t": "img",
+     "file": "45f076_f14dc01b41f04541b62be8418fed755c~mv2.webp",
+     "alt": "mexico luxury health and spa resort by Alive"
+    },
+    {
+     "t": "h",
+     "level": 1,
+     "text": "Alive Luxury Private Retreats Mexico"
+    },
+    {
+     "t": "h",
+     "level": 2,
+     "text": "A Fully Private, High End Retreat Experience for Wellness, Detox, Burnout Recovery, and Mental Health, Delivered Exclusively to You"
+    }
+   ]
+  },
+  {
+   "id": "comp-mmd0yk371",
+   "blocks": [
+    {
+     "t": "h",
+     "level": 2,
+     "text": "A private Luxury Sanctuary For Healing"
+    },
+    {
+     "t": "img",
+     "file": "45f076_9571d320997a44faa3ebf798ac269af1~mv2.webp",
+     "alt": "Screenshot 2026-04-24 at 12.37.24 pm"
+    },
+    {
+     "t": "p",
+     "text": "Imagine stepping into a fully private, five star luxury wellness retreat designed entirely around you.",
+     "links": [
+      {
+       "text": "wellness",
+       "href": "/wellness-retreat-programs",
+       "newTab": false
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Do you want complete confidentiality, space, and discretion, where your wellness, detox, burnout recovery, or mental health retreat is delivered one on one, offering 5 star luxury and a full expert team only focused on you?",
+     "links": [
+      {
+       "text": "detox",
+       "href": "/detox-cleanse-retreat",
+       "newTab": false
+      },
+      {
+       "text": "burnout",
+       "href": "/de-stress-burn-out-retreat",
+       "newTab": false
+      },
+      {
+       "text": "mental health retreat",
+       "href": "/luxury-mental-health-retreat",
+       "newTab": false
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Set within an ultra exclusive beachfront residence, this is a high end retreat experience where everything comes to you. Your own private villa. Your own expert team. Your own fully personalised program, designed to reset your body, clear your mind, and transform your life."
+    },
+    {
+     "t": "p",
+     "text": "Your private luxury retreat is built entirely around you, with every session, every detail, and every experience delivered within your own residence."
+    },
+    {
+     "t": "p",
+     "text": "Imagine waking up to uninterrupted ocean views, moving through your day with complete support, and knowing that every part of your health, your energy, your mindset, and your direction is being transformed holistically."
+    },
+    {
+     "t": "p",
+     "text": "This is a one on one, fully exclusive retreat experience for those who expect more. More care. More privacy."
+    },
+    {
+     "t": "p",
+     "text": "More results."
+    },
+    {
+     "t": "p",
+     "text": "A luxury private retreat designed to help you reset completely, reconnect with yourself, and return to life clear, energised, and operating at your full potential."
+    }
+   ]
+  },
+  {
+   "id": "comp-moceftwk",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Holistic"
+    },
+    {
+     "t": "p",
+     "text": "Excellence In 360 Degree Programs"
+    },
+    {
+     "t": "p",
+     "text": "Private"
+    },
+    {
+     "t": "p",
+     "text": "Confidential One on One Programs"
+    },
+    {
+     "t": "p",
+     "text": "Life Changing"
+    },
+    {
+     "t": "p",
+     "text": "Proven Results Since 2009"
+    },
+    {
+     "t": "p",
+     "text": "Expert"
+    },
+    {
+     "t": "p",
+     "text": "Exclusive Access To World Class Team"
+    },
+    {
+     "t": "p",
+     "text": "Luxury"
+    },
+    {
+     "t": "p",
+     "text": "The Ultimate 5 Star Retreats"
+    }
+   ]
+  },
+  {
+   "id": "comp-mocfdpr8",
+   "blocks": [
+    {
+     "t": "img",
+     "file": "45f076_5683856b1e1f4b868199e060e9d27392~mv2.webp",
+     "alt": "Screenshot 2026-04-24 at 12.37.15 pm"
+    },
+    {
+     "t": "h",
+     "level": 2,
+     "text": "About The Luxury Private Retreat Villas"
+    },
+    {
+     "t": "img",
+     "file": "45f076_1494b035342a43b7b8da85fba835571d~mv2.webp",
+     "alt": "Screenshot 2026-04-24 at 12.38.04 pm"
+    },
+    {
+     "t": "p",
+     "text": "✓ Private beachfront luxury villas with expansive indoor and outdoor living, multiple spaces to relax, reset, and fully switch off, with uninterrupted ocean views and complete seclusion"
+    },
+    {
+     "t": "p",
+     "text": "✓ Ultra exclusive five star private residences designed for total privacy, where your entire retreat is delivered one on one within your own space"
+    },
+    {
+     "t": "p",
+     "text": "✓ Private pools, open terraces, and direct beachfront access creating a seamless indoor outdoor living experience"
+    },
+    {
+     "t": "p",
+     "text": "✓ Onsite fitness, movement, yoga, meditation, and healing sessions delivered privately within your villa by your dedicated team"
+    },
+    {
+     "t": "p",
+     "text": "✓ In villa spa and bodywork treatments brought directly to you, allowing for deep relaxation without ever leaving your space"
+    },
+    {
+     "t": "p",
+     "text": "✓ Refined private dining experiences with restaurant level cuisine awith a dedicated private chef within your residence"
+    },
+    {
+     "t": "p",
+     "text": "✓ Expansive surroundings with open space, ocean views, and natural beauty designed to immediately slow you down and create a sense of calm"
+    },
+    {
+     "t": "p",
+     "text": "✓ Five star service delivered discreetly throughout your stay, including housekeeping, concierge, security, and full guest support"
+    },
+    {
+     "t": "p",
+     "text": "✓ Private luxury drivers and transport available for seamless movement and curated off site experiences"
+    },
+    {
+     "t": "link",
+     "text": "View Packages",
+     "href": "/download"
+    }
+   ]
+  },
+  {
+   "id": "comp-mocfubqh",
+   "blocks": [
+    {
+     "t": "h",
+     "level": 2,
+     "text": "High End Luxury Beachfront Villas"
+    },
+    {
+     "t": "img",
+     "file": "45f076_b8c365093db84a9ea14fa97c6bd4e4c2~mv2.webp",
+     "alt": "service by pool small"
+    },
+    {
+     "t": "p",
+     "text": "Step into a space where everything slows down and nothing is expected of you."
+    },
+    {
+     "t": "p",
+     "text": "Your private villa becomes your own world, a place to wake up slowly, move at your own pace, and feel fully taken care of without needing to think about anything. Indoor and outdoor living flows effortlessly, with space to rest, reflect, and reset in complete privacy."
+    },
+    {
+     "t": "p",
+     "text": "Complete seclusion, expansive living, and your entire retreat delivered exclusively to you, allowing you to reset in total privacy, without interruption."
+    },
+    {
+     "t": "p",
+     "text": "Your entire retreat is delivered within your luxury residence and villa."
+    }
+   ]
+  },
+  {
+   "id": "comp-mmd0yk4a8",
+   "blocks": [
+    {
+     "t": "h",
+     "level": 2,
+     "text": "The Outstanding Service & Experience"
+    },
+    {
+     "t": "h",
+     "level": 3,
+     "text": "high end caring service that you only experience in Mexico at our luxury retreat",
+     "links": [
+      {
+       "text": "bali at our luxury retreat",
+       "href": "/bali",
+       "newTab": false
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "file": "45f076_d6a33e306bb842b589ec79f360301398~mv2.webp",
+     "alt": "jono chef food client"
+    },
+    {
+     "t": "img",
+     "file": "45f076_299eb8ce1237428191cea1aa9af67dce~mv2.webp",
+     "alt": "5 star service at the luxury alive wellness retreat and spa mexico"
+    },
+    {
+     "t": "p",
+     "text": "We've carefully created the ultimate retreat experience unlike any other retreat to ensure that you feel like royalty during your stay with us as we pamper you & support you on your life changing journey now and always:"
+    },
+    {
+     "t": "p",
+     "text": "✓ Your own designated retreat host and service team offering personal support and guidance throughout your stay ✓ A dedicated Program Director and client manager coordinating your schedule, sessions, and full treatment journey ✓ Private drivers and security ensuring complete comfort, safety, and discretion at all times ✓ As much support, privacy, and space as you need — with a team experienced in working with elite guests ✓ A complete wellness and therapy team delivering a carefully structured program with proven, life-changing results ✓ No restrictions — you maintain full personal freedom while committing to your healing process and retreat program ✓ Zero judgement and unwavering empowerment from a team devoted to helping you reconnect with your authentic self"
+    }
+   ]
+  },
+  {
+   "id": "comp-mmd0yk5m5",
+   "blocks": [
+    {
+     "t": "img",
+     "file": "45f076_d08ba9af9cab491480187364443c47d6~mv2.webp",
+     "alt": "healthy wholefoods menu or customised detox and cleanse menu at the sp"
+    },
+    {
+     "t": "h",
+     "level": 2,
+     "text": "Private Chef | Gourmet Health Foods Dining"
+    },
+    {
+     "t": "p",
+     "text": "Enjoy the Alive tropical health-food dining experience, crafted to re-energise your body, calm and clarify your mind, and support deep healing from within. Choose gourmet wholefood dining options or our celebrated Alive detox and cleanse menus customised to your needs. Every meal is a delicious blend of island–fresh ingredients, medicinal nutrition, and holistic wellness, created to help you feel alive again.",
+     "links": [
+      {
+       "text": "detox and cleanse menus customised to your needs.",
+       "href": "/bali",
+       "newTab": false
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "level": 3,
+     "text": "Your dining experience includes:"
+    },
+    {
+     "t": "p",
+     "text": "✓ Island-inspired whole foods across 8 restaurants each celebrating unique styles for every taste ✓ Optional nutritionist-designed menus focused on gut healing, detox, and long-term vitality ✓ Medicinal teas, herbal tonics and natural elixirs crafted fresh each day ✓ Cold-pressed juices and tropical alkaline smoothies made with Mexico’s freshest produce ✓ Optional fasting programs including juice, broth, or guided nutritional fasting ✓ Custom nutritional menu plans for detox, weight loss, hormonal balance or energy reset (optional extra) ✓ Gourmet à la carte wholefood meals served three times daily ✓ Natural medicine and herbal support for deep internal restoration ✓ Freedom to dine anywhere you wish — in-suite, by the pool, or in tranquil garden spaces"
+    },
+    {
+     "t": "link",
+     "text": "VIEW PACKAGES",
+     "href": "/download",
+     "newTab": true
+    }
+   ]
+  },
+  {
+   "id": "comp-mmd0yk5u7",
+   "blocks": [
+    {
+     "t": "img",
+     "file": "45f076_0a6b010bb8af478487de8a9c4416f18e~mv2.avif",
+     "alt": "private cenote near the luxury wellness retreat"
+    },
+    {
+     "t": "h",
+     "level": 2,
+     "text": "Nature, Adventure & Retreat Surrounds"
+    },
+    {
+     "t": "img",
+     "file": "45f076_46199df5f107476bb845f38e361db8c2~mv2.webp",
+     "alt": "emotional healing retreats at alive luxury wellness resorts"
+    },
+    {
+     "t": "p",
+     "text": "Far from the busy party zones and tourist crowds of Tulum, yet close enough to experience the beauty and culture of the Riviera Maya, the wellness resort offers a peaceful beachfront sanctuary surrounded by jungle and the Caribbean Sea. Here guests can slow down, breathe deeply and reconnect with nature while still having access to some of the most extraordinary natural and cultural experiences Mexico has to offer."
+    },
+    {
+     "t": "p",
+     "text": "✓ Swimming in ancient crystal clear cenotes hidden within the jungle, naturally cooling, mineral rich and deeply grounding"
+    },
+    {
+     "t": "p",
+     "text": "✓ Snorkelling along the Riviera Maya coastline in turquoise Caribbean waters filled with vibrant marine life"
+    },
+    {
+     "t": "p",
+     "text": "✓ Diving the world famous Mesoamerican reef, the second largest coral reef system on earth"
+    },
+    {
+     "t": "p",
+     "text": "✓ Exploring the breathtaking Mayan ruins of Tulum perched above the Caribbean Sea"
+    },
+    {
+     "t": "p",
+     "text": "✓ Visiting sacred Mayan archaeological sites including Coba and Chichen Itza, rich with ancient wisdom and history"
+    },
+    {
+     "t": "p",
+     "text": "✓ Cycling through jungle paths and coastal roads connecting nature, local culture and the ocean"
+    },
+    {
+     "t": "p",
+     "text": "✓ Discovering secluded Caribbean beaches with powder white sand and clear turquoise water"
+    },
+    {
+     "t": "p",
+     "text": "✓ Paddleboarding and ocean swimming along calm tropical coastlines"
+    },
+    {
+     "t": "p",
+     "text": "✓ Jungle nature walks surrounded by tropical wildlife, birds and ancient trees"
+    },
+    {
+     "t": "p",
+     "text": "✓ Explore adventure activities like beach horse rides, canyoning and more"
+    },
+    {
+     "t": "p",
+     "text": "These experiences reconnect you with the earth, your intuition, your breath, your strength and your life."
+    },
+    {
+     "t": "p",
+     "text": "And unlike machines, nature also gives you something technology never can connection to beauty, wonder, meaning and yourself."
+    },
+    {
+     "t": "p",
+     "text": "This is why, at Alive, we do not replace human connection or natural connection with devices."
+    },
+    {
+     "t": "p",
+     "text": "We do not plug you into machines and call it healing."
+    },
+    {
+     "t": "p",
+     "text": "We help you build an unbreakable relationship with yourself, your future and the world you were born into a relationship many people have lost without even realising it."
+    },
+    {
+     "t": "p",
+     "text": "This is healing that lasts. This is transformation that stays with you for life."
+    }
+   ]
+  },
+  {
+   "id": "comp-mocjbc4d",
+   "blocks": [
+    {
+     "t": "h",
+     "level": 2,
+     "text": "Fully Personalised Wellness Programs"
+    },
+    {
+     "t": "img",
+     "file": "e4593f_94909b93101f4e77a9c100394c454504~mv2.webp",
+     "alt": "Alive health and wellnes retreats"
+    },
+    {
+     "t": "h",
+     "level": 6,
+     "text": "Renew Me"
+    },
+    {
+     "t": "h",
+     "level": 3,
+     "text": "Health & Detox Retreats"
+    },
+    {
+     "t": "img",
+     "file": "e4593f_df3b81c98ea24f90b12f42cde70dbdf0~mv2.webp",
+     "alt": "Alive holistic wellness and detox retreat"
+    },
+    {
+     "t": "link",
+     "text": "HOLISTIC WELLNESS",
+     "href": "/wellness-retreat-programs"
+    },
+    {
+     "t": "h",
+     "level": 6,
+     "text": "Revitalise Me"
+    },
+    {
+     "t": "h",
+     "level": 3,
+     "text": "Stress & Burnout retreat"
+    },
+    {
+     "t": "img",
+     "file": "e4593f_8af82c7fc2874749b58395c6cff3b0d9~mv2.webp",
+     "alt": "alive weight loss retreat package"
+    },
+    {
+     "t": "link",
+     "text": "THE DE STRESS PROGRAM",
+     "href": "/de-stress-burn-out-retreat"
+    },
+    {
+     "t": "h",
+     "level": 6,
+     "text": "Restore Me"
+    },
+    {
+     "t": "h",
+     "level": 3,
+     "text": "luxury Mental Health retreat"
+    },
+    {
+     "t": "link",
+     "text": "MENTAL HEALTH PROGRAM",
+     "href": "/luxury-mental-health-retreat"
+    }
+   ]
+  },
+  {
+   "id": "comp-mmd0yk5a11",
+   "blocks": [
+    {
+     "t": "img",
+     "file": "45f076_03b234f0a9f249feac52d5ff688d1f0a~mv2.webp",
+     "alt": "alive holistic health retreats"
+    },
+    {
+     "t": "h",
+     "level": 2,
+     "text": "Wellness Therapies & Private Sessions"
+    },
+    {
+     "t": "h",
+     "level": 4,
+     "text": "Private one on one therapies for physical, mental, emotional and life transformation"
+    },
+    {
+     "t": "p",
+     "text": "For those who want to go deeper, Alive offers a wide range of private wellness therapies and one-on-one sessions, delivered by highly skilled, hand-picked professionals. These sessions allow you to focus on what you need most, with personalised support that meets you where you are."
+    },
+    {
+     "t": "p",
+     "text": "All therapies are optional and can be added to your stay at any time. Some guests choose one or two sessions. Others build a more immersive, customised wellness experience. There is no expectation to do it all. You simply choose what feels right for you."
+    },
+    {
+     "t": "p",
+     "text": "This is where wellness becomes personal, refined and deeply supportive."
+    },
+    {
+     "t": "p",
+     "text": "Personal Wellness Sessions Available"
+    },
+    {
+     "t": "p",
+     "text": "✓ Naturopathy & Functional Health Personalised support for energy, digestion, sleep, hormones and overall wellbeing."
+    },
+    {
+     "t": "p",
+     "text": "✓ Integrative Medical & Preventative Health Consultations Advanced health guidance focused on optimisation, longevity and balance."
+    },
+    {
+     "t": "p",
+     "text": "✓ Nutrition & Wellness Coaching Tailored support for nourishment, weight balance, cleansing and sustainable habits."
+    },
+    {
+     "t": "p",
+     "text": "✓ Personal Training & Movement Therapy One-on-one strength, mobility and functional movement designed for your body and energy levels."
+    },
+    {
+     "t": "p",
+     "text": "✓ Private Yoga & Meditation Sessions Individualised practices to support flexibility, calm, focus and mind-body connection."
+    },
+    {
+     "t": "p",
+     "text": "✓ Breathwork & Nervous System Regulation Deep sessions to release stress, regulate the nervous system and restore inner calm."
+    },
+    {
+     "t": "p",
+     "text": "✓ Emotional Wellbeing & Life Coaching Support for clarity, emotional balance, life direction and meaningful change."
+    },
+    {
+     "t": "p",
+     "text": "✓ Healing & Energy Work Subtle yet powerful sessions supporting emotional release, alignment and inner restoration."
+    },
+    {
+     "t": "p",
+     "text": "✓ Recovery & Regeneration Therapies Targeted support for rest, repair and physical renewal."
+    },
+    {
+     "t": "p",
+     "text": "✓ Spa & Therapeutic Bodywork Massage, body treatments and restorative rituals to nurture, relax and rebalance."
+    }
+   ]
+  },
+  {
+   "id": "comp-mocko4eg",
+   "blocks": [
+    {
+     "t": "h",
+     "level": 2,
+     "text": "Looking For Personalised Support?"
+    },
+    {
+     "t": "p",
+     "text": "One private conversation can change everything"
+    },
+    {
+     "t": "p",
+     "text": "Whether you’re feeling clear, unsure, or reaching out for someone you care about, this is a space to speak openly, be heard, and understand what’s truly possible for you"
+    },
+    {
+     "t": "p",
+     "text": "There is no pressure, no expectation, just a genuine conversation to explore where you are and what you need"
+    },
+    {
+     "t": "p",
+     "text": "The most direct way to connect is via WhatsApp. Every message is responded to personally, promptly, and in complete confidence"
+    },
+    {
+     "t": "p",
+     "text": "If you prefer, you can schedule a private call at a time that suits you and we will speak with you directly"
+    },
+    {
+     "t": "p",
+     "text": "Connect with an Alive Wellness Advisor and your booking concierge by phone or whatsapp."
+    },
+    {
+     "t": "p",
+     "text": "Or book yourself in for your 360 wellness session:"
+    },
+    {
+     "t": "li",
+     "text": "Speak With Your Client Manager Book A Call At A Time That Suits 45 min Book Now",
+     "links": [
+      {
+       "text": "Speak With Your Client Manager",
+       "href": "/booking-calendar/speak-with-your-client-manager",
+       "newTab": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "None",
+   "blocks": [
+    {
+     "t": "h",
+     "level": 2,
+     "text": "Speak With Your Client Manager"
+    },
+    {
+     "t": "p",
+     "text": "Book A Call At A Time That Suits"
+    },
+    {
+     "t": "p",
+     "text": "45 min"
+    }
+   ]
+  }
+ ],
+ "extraImages": [
+  {
+   "t": "img",
+   "file": "45f076_e6de9dc340c34caca4cc3ba047357a57~mv2.png",
+   "alt": "Alive Holistic Weightloss Wellness Retreat Programs",
+   "under": "",
+   "ids": [
+    "comp-m3vxlucq",
+    "comp-mel74zx7",
+    "comp-mesn5"
+   ]
+  },
+  {
+   "t": "img",
+   "file": "45f076_dc6642574b3b46b691ab9dc93b7455d5~mv2.png",
+   "alt": "skye headshot",
+   "under": "",
+   "ids": [
+    "comp-l1vhr3y8",
+    "comp-mnwkot6x",
+    "section"
+   ]
+  },
+  {
+   "t": "img",
+   "file": "45f076_b79c07e2144b4bc086d808f430cc3861~mv2.jpg",
+   "alt": "Australia's top mental health retreats",
+   "under": "",
+   "ids": [
+    "comp-mf52cx25",
+    "comp-mj2icfbo",
+    "comp-mjp9n"
+   ]
+  },
+  {
+   "t": "img",
+   "file": "45f076_9fb512327f314645b71265f29f34994c~mv2.webp",
+   "alt": "shaman at secrets",
+   "under": "",
+   "ids": [
+    "comp-mocj66q1"
+   ]
+  }
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Organization",
+     "@id": "https://www.aliveluxuryretreats.com/#organization",
+     "name": "Alive Luxury Retreats",
+     "alternateName": "Alive Luxury Private Wellness and Mental Health Retreats",
+     "url": "https://www.aliveluxuryretreats.com/",
+     "logo": "https://static.wixstatic.com/media/e365b3_de73b7f0e0fe4007a03817dd9c643d35~mv2.webp",
+     "description": "Alive Luxury Retreats delivers world class luxury wellness and mental health retreats, offering private villas and exclusive residences within 5 star beachfront settings for high end, personalised transformation.",
+     "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "ratingCount": "1029"
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://www.aliveluxuryretreats.com/mexico-wellness-retreat#webpage",
+     "url": "https://www.aliveluxuryretreats.com/mexico-wellness-retreat",
+     "name": "Luxury Mexico Retreat | 5 Star Private Wellness & Mental Health Retreat",
+     "description": "Luxury Mexico retreat offering a 5 star private retreat experience for wellness, detox, burnout recovery, and mental health. Exclusive, one on one luxury retreats delivered in ultra private beachfront villas.",
+     "inLanguage": "en",
+     "about": {
+      "@id": "https://www.aliveluxuryretreats.com/mexico-wellness-retreat#resort"
+     },
+     "mainEntity": {
+      "@id": "https://www.aliveluxuryretreats.com/mexico-wellness-retreat#service"
+     }
+    },
+    {
+     "@type": "Resort",
+     "@id": "https://www.aliveluxuryretreats.com/mexico-wellness-retreat#resort",
+     "name": "Alive Luxury Private Retreats Mexico",
+     "url": "https://www.aliveluxuryretreats.com/mexico-wellness-retreat",
+     "description": "A 5 star luxury private retreat in Mexico offering ultra exclusive beachfront villas for wellness, detox, burnout recovery, and mental health retreats delivered one on one with a dedicated expert team.",
+     "image": "https://static.wixstatic.com/media/45f076_b79c07e2144b4bc086d808f430cc3861~mv2.jpg",
+     "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "Riviera Maya",
+      "addressCountry": "MX"
+     },
+     "brand": {
+      "@id": "https://www.aliveluxuryretreats.com/#organization"
+     }
+    },
+    {
+     "@type": "Service",
+     "@id": "https://www.aliveluxuryretreats.com/mexico-wellness-retreat#service",
+     "name": "Luxury Mexico Private Retreat",
+     "serviceType": "Luxury Wellness, Detox, Burnout and Mental Health Retreat",
+     "description": "A private luxury Mexico retreat offering 5 star, one on one wellness, detox, burnout recovery, and mental health retreats delivered exclusively within ultra private beachfront villas.",
+     "provider": {
+      "@id": "https://www.aliveluxuryretreats.com/#organization"
+     },
+     "areaServed": {
+      "@type": "Place",
+      "name": "Mexico"
+     },
+     "url": "https://www.aliveluxuryretreats.com/mexico-wellness-retreat"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://www.aliveluxuryretreats.com/mexico-wellness-retreat#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "https://www.aliveluxuryretreats.com/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Mexico Retreat",
+       "item": "https://www.aliveluxuryretreats.com/mexico-wellness-retreat"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

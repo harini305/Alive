@@ -1,0 +1,89 @@
+{
+ "key": "service-page__interview",
+ "route": "/service-page/interview",
+ "status": "200",
+ "title": "Interview | Alive Luxury Wellness Retreats",
+ "description": "None",
+ "h1": [
+  "Interview"
+ ],
+ "iframes": [],
+ "sections": [
+  {
+   "id": "None",
+   "blocks": [
+    {
+     "t": "li",
+     "text": "Service list"
+    },
+    {
+     "t": "li",
+     "text": "Interview"
+    },
+    {
+     "t": "h",
+     "level": 1,
+     "text": "Interview"
+    },
+    {
+     "t": "p",
+     "text": "1 hr"
+    },
+    {
+     "t": "p",
+     "text": "1 h"
+    },
+    {
+     "t": "p",
+     "text": "Bali"
+    },
+    {
+     "t": "btn",
+     "text": "Book Now"
+    },
+    {
+     "t": "h",
+     "level": 2,
+     "text": "Contact Details"
+    },
+    {
+     "t": "li",
+     "text": "Bali, Indonesia +447450307150 bookings@aliveluxuryretreats.com"
+    },
+    {
+     "t": "p",
+     "text": "Bali, Indonesia"
+    },
+    {
+     "t": "p",
+     "text": "+447450307150"
+    },
+    {
+     "t": "p",
+     "text": "bookings@aliveluxuryretreats.com"
+    }
+   ]
+  }
+ ],
+ "extraImages": [
+  {
+   "t": "img",
+   "file": "45f076_d7a687e987d94323b2db55c7085b5017~mv2.jpg",
+   "alt": "",
+   "under": "",
+   "ids": [
+    "section"
+   ]
+  }
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org/",
+   "@type": "ImageObject",
+   "height": 2448,
+   "width": 3264,
+   "contentUrl": "https://static.wixstatic.com/media/45f076_d7a687e987d94323b2db55c7085b5017~mv2.jpg/v1/fit/w_3264,h_2448,al_c,q_90/45f076_d7a687e987d94323b2db55c7085b5017~mv2.jpg",
+   "url": "https://static.wixstatic.com/media/45f076_d7a687e987d94323b2db55c7085b5017~mv2.jpg/v1/fit/w_3264,h_2448,al_c,q_90/45f076_d7a687e987d94323b2db55c7085b5017~mv2.jpg"
+  }
+ ]
+}

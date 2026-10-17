@@ -1,0 +1,63 @@
+/* Luxury accommodation pages: one surface, even rhythm, every row aligned to the same grid */
+.page { background: var(--ivory); }
+
+.feature { padding-block: clamp(36px, 4.4vw, 64px); }
+.feature + .feature { border-top: 1px solid var(--line); }
+
+.row, .rowText { display: grid; gap: 28px; align-items: stretch; }
+@media (min-width: 900px) {
+  .row { grid-template-columns: minmax(0, 5fr) minmax(0, 6fr); gap: clamp(32px, 4vw, 64px); }
+  .flip .mediaCol { order: 2; }
+  .rowText { grid-template-columns: minmax(0, 5fr) minmax(0, 6fr); gap: clamp(32px, 4vw, 64px); }
+}
+
+/* the photo is exactly as tall as the copy beside it (never under 360px) so text and photo start
+   and end together */
+.mediaCol { position: relative; min-width: 0; }
+.media { width: 100%; margin: 0; border-radius: var(--arch); aspect-ratio: var(--ar-m, 4 / 3); }
+@media (min-width: 900px) {
+  .mediaCol { container-type: inline-size; min-height: 360px; }
+  .media { position: absolute; inset: 0; aspect-ratio: auto; height: 100%; }
+}
+
+.textCol { min-width: 0; align-self: center; }
+.rowText .textCol { align-self: start; }
+.rowText .head { margin-bottom: 0; }
+.head { display: grid; gap: 10px; margin-bottom: 20px; }
+.title { font-size: var(--fs-h2); line-height: 1.12; }
+.subtitle { margin: 0; font-family: var(--font-display); font-size: clamp(1rem, 0.95rem + 0.3vw, 1.2rem); line-height: 1.45; color: var(--olive-text); max-width: 44ch; }
+.body { max-width: var(--max-text); }
+
+/* lists run full width under the row: compact two- or three-column grid, rows aligned */
+.below { margin-top: clamp(24px, 3vw, 40px); }
+.belowFlow > :global(p), .belowFlow > :global(.flow-h) { max-width: var(--max-text); }
+.belowFlow :global(.checklist), .belowFlow :global(.dotlist) { display: grid; column-gap: clamp(28px, 3.4vw, 56px); }
+.belowFlow :global(.checklist) li { padding-block: 11px; }
+@media (min-width: 760px) {
+  .belowFlow :global(.checklist), .belowFlow :global(.dotlist) { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .belowFlow :global(.checklist) li:nth-last-child(2):nth-child(odd) { border-bottom: 1px solid var(--line); }
+}
+@media (min-width: 1200px) {
+  /* many short points: three columns */
+  .belowFlow :global(.checklist):has(> li:nth-child(10)) { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .belowFlow :global(.checklist):has(> li:nth-child(10)) li:nth-last-child(2):nth-child(odd) { border-bottom: 0; }
+  .belowFlow :global(.checklist):has(> li:nth-child(10)) li:nth-last-child(-n + 3) { border-bottom: 1px solid var(--line); }
+}
+
+/* photo band: second photos of every topic, one even row (or two) */
+.band { padding-block: clamp(36px, 4.4vw, 64px); border-top: 1px solid var(--line); }
+.bandGrid { display: grid; gap: clamp(12px, 1.6vw, 20px); grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.bandItem { margin: 0; aspect-ratio: 4 / 3; border-radius: var(--arch); }
+@media (max-width: 699px) {
+  .bandGrid { grid-auto-flow: column; grid-template-columns: none; grid-auto-columns: 78%; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; }
+  .bandGrid::-webkit-scrollbar { display: none; }
+  .bandItem { scroll-snap-align: start; }
+}
+
+/* closing paragraphs after a list: two balanced columns on desktop */
+.closing { margin-top: clamp(20px, 2.4vw, 32px); }
+@media (min-width: 900px) {
+  .closing { columns: 2; column-gap: clamp(32px, 4vw, 64px); }
+  .closing > :global(*) { break-inside: avoid; }
+  .closing > :global(.flow-cta) { column-span: all; }
+}

@@ -1,0 +1,18 @@
+.toggle {
+  position: absolute;
+  z-index: 3;
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border-radius: 50%;
+  border: 1px solid rgba(220, 214, 165, 0.7);
+  background: rgba(20, 19, 16, 0.55);
+  color: #fff;
+  cursor: pointer;
+  backdrop-filter: blur(4px);
+  transition: background-color 0.3s var(--ease-out), border-color 0.3s var(--ease-out);
+}
+.toggle:hover { background: rgba(20, 19, 16, 0.8); border-color: var(--champagne); }
+.toggle:focus-visible { outline: 2px solid var(--focus, var(--champagne)); outline-offset: 3px; }

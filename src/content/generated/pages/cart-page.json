@@ -1,0 +1,35 @@
+{
+ "key": "cart-page",
+ "route": "/cart-page",
+ "status": "200",
+ "title": "Cart Page | Alive Luxury Wellness Retreats",
+ "description": "https://static.wixstatic.com/media/e365b3_de73b7f0e0fe4007a03817dd9c643d35%7Emv2.webp",
+ "h1": [
+  "My cart"
+ ],
+ "iframes": [],
+ "sections": [
+  {
+   "id": "None",
+   "blocks": [
+    {
+     "t": "h",
+     "level": 1,
+     "text": "My cart"
+    }
+   ]
+  },
+  {
+   "id": "comp-lk6o0eot",
+   "blocks": [
+    {
+     "t": "h",
+     "level": 2,
+     "text": "Order summary"
+    }
+   ]
+  }
+ ],
+ "extraImages": [],
+ "jsonld": null
+}

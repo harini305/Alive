@@ -1,0 +1,28 @@
+.wrap { position: relative; }
+.track {
+  display: flex;
+  gap: 20px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-padding-inline: var(--gutter);
+  padding-inline: max(var(--gutter), calc((100% - var(--max)) / 2)); /* % = wrapper width; 100vw would include the scrollbar */
+  overscroll-behavior-x: contain;
+}
+.track:focus-visible { outline-offset: -3px; }
+.item { flex: 0 0 auto; width: min(82vw, 440px); scroll-snap-align: start; }
+.controls { display: flex; align-items: center; gap: 12px; margin-top: 28px; }
+.progress { flex: 1; height: 1px; background: currentColor; opacity: 0.25; position: relative; margin-right: 12px; }
+.progress span { position: absolute; inset: 0; background: currentColor; transform-origin: left; transform: scaleX(0.06); opacity: 1; }
+.controls button {
+  width: 52px;
+  height: 52px;
+  display: grid;
+  place-items: center;
+  background: transparent;
+  border: 1px solid currentColor;
+  color: inherit;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s, opacity 0.3s;
+}
+.controls button:hover:not(:disabled) { background: var(--champagne); color: var(--ink); border-color: var(--champagne); }
+.controls button:disabled { opacity: 0.3; cursor: default; }
